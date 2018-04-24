@@ -12,6 +12,7 @@
 		F38079D6208FCFA80083BAF2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F38079D4208FCFA80083BAF2 /* Main.storyboard */; };
 		F38079D8208FCFA80083BAF2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F38079D7208FCFA80083BAF2 /* Assets.xcassets */; };
 		F38079DB208FCFA80083BAF2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F38079D9208FCFA80083BAF2 /* LaunchScreen.storyboard */; };
+		F3FAE682208FE4C500DF80E9 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3FAE681208FE4C500DF80E9 /* ProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F38079D7208FCFA80083BAF2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F38079DA208FCFA80083BAF2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F38079DC208FCFA90083BAF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F3FAE681208FE4C500DF80E9 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				F38079D0208FCFA80083BAF2 /* AppDelegate.swift */,
 				F38079D2208FCFA80083BAF2 /* ViewController.swift */,
+				F3FAE681208FE4C500DF80E9 /* ProfileViewController.swift */,
 				F38079D4208FCFA80083BAF2 /* Main.storyboard */,
 				F38079D7208FCFA80083BAF2 /* Assets.xcassets */,
 				F38079D9208FCFA80083BAF2 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F3FAE682208FE4C500DF80E9 /* ProfileViewController.swift in Sources */,
 				F38079D3208FCFA80083BAF2 /* ViewController.swift in Sources */,
 				F38079D1208FCFA80083BAF2 /* AppDelegate.swift in Sources */,
 			);
